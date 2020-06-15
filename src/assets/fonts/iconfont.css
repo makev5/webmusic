@@ -1,0 +1,84 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1590499866628'); /* IE9 */
+  src: url('iconfont.eot?t=1590499866628#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2'),
+  url('iconfont.woff?t=1590499866628') format('woff'),
+  url('iconfont.ttf?t=1590499866628') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1590499866628#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-right:before {
+  content: "\e655";
+}
+
+.icon-Left:before {
+  content: "\e611";
+}
+
+.icon-bofang:before {
+  content: "\e600";
+  /* opacity: 1; */
+}
+
+.recommend li:hover .icon-bofang:before {
+  opacity: 1; 
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.img-wrap:hover .icon-bofang:before {
+  opacity: 1;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.icon-shipin:before {
+  content: "\e637";
+}
+
+.icon-audio:before {
+  content: "\e602";
+}
+
+.icon-home:before {
+  content: "\e6f3";
+  opacity: 0;
+}
+
+.icon-home:hover:before {
+  opacity: 1;
+}
+
+.icon-CN_NetEasemusic:before {
+  content: "\e658";
+}
+
+.icon-zuixiaohua:before {
+  content: "\e60e";
+  opacity: 0;
+}
+
+.icon-zuixiaohua:hover:before {
+  opacity: 1;
+}
+
+.icon-ic_queue_music_px:before {
+  content: "\e679";
+}
+
+.icon-quanping_huaban:before {
+  content: "\e623";
+  opacity: 0;
+}
+
+.icon-quanping_huaban:hover:before {
+  opacity: 1;
+}
+
